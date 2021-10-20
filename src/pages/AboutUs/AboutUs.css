@@ -1,0 +1,24 @@
+.about-body h1 {
+  color: #0d6efd;
+  margin-top: 50px;
+  font-weight: 500;
+}
+.about-body p,
+li {
+  color: #6d6d6d;
+  font-size: 18px;
+  line-height: 1.65em;
+}
+.affiliate-img {
+  text-align: center;
+}
+.affiliate-img img {
+  border-radius: 10px;
+  padding: 30px;
+}
+.affiliate-img img:hover {
+  box-shadow: 0px 0px 5px;
+}
+li:hover {
+  color: blue;
+}
